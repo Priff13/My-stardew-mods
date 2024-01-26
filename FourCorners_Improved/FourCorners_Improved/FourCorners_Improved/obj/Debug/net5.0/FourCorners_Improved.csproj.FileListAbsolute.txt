@@ -1,8 +1,0 @@
-C:\Users\Becket\source\repos\FourCorners_Improved\FourCorners_Improved\bin\Debug\net5.0\FourCorners_Improved.deps.json
-C:\Users\Becket\source\repos\FourCorners_Improved\FourCorners_Improved\bin\Debug\net5.0\FourCorners_Improved.dll
-C:\Users\Becket\source\repos\FourCorners_Improved\FourCorners_Improved\obj\Debug\net5.0\FourCorners_Improved.csproj.AssemblyReference.cache
-C:\Users\Becket\source\repos\FourCorners_Improved\FourCorners_Improved\obj\Debug\net5.0\FourCorners_Improved.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Becket\source\repos\FourCorners_Improved\FourCorners_Improved\obj\Debug\net5.0\FourCorners_Improved.AssemblyInfoInputs.cache
-C:\Users\Becket\source\repos\FourCorners_Improved\FourCorners_Improved\obj\Debug\net5.0\FourCorners_Improved.AssemblyInfo.cs
-C:\Users\Becket\source\repos\FourCorners_Improved\FourCorners_Improved\obj\Debug\net5.0\FourCorners_Improved.csproj.CoreCompileInputs.cache
-C:\Users\Becket\source\repos\FourCorners_Improved\FourCorners_Improved\obj\Debug\net5.0\FourCorners_Improved.dll

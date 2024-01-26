@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TBZVaTBF7Hbt3DzHH+gRebVSb/RbqIlEtrLVf5dTwHAZ+N322BxnTJkF13CVMfcnvRdvzY4mFRnqf6kd/RIasg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Becket\\source\\repos\\FourCorners_Improved\\FourCorners_Improved\\FourCorners_Improved.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Becket\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512",
+    "C:\\Users\\Becket\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Becket\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Becket\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

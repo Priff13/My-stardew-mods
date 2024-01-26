@@ -1,0 +1,10 @@
+{
+	"UniqueID": "Priff13.FourCorners_Improved",
+	"EntryDll": "FourCorners_Improved.dll",
+	"Name": "Four Corners Farm Improved",
+	"Author": "Priff13",
+	"Version": "1.0.1",
+	"Description": "Vastly overhauls the Four Corners Farm.",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": []
+}
